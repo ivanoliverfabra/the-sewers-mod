@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "thesewers:suspiciouseyefamiliaritem",
+    "thesewers:conduiteyefamiliaritem",
+    "thesewers:bluejellyfishfamiliaritem",
+    "thesewers:greenjellyfishfamiliaritem",
+    "thesewers:yellowjellyfishfamiliaritem",
+    "thesewers:redjellyfishfamiliaritem",
+    "thesewers:orangejellyfishfamiliaritem",
+    "thesewers:pinkjellyfishfamiliaritem",
+    "thesewers:purplejellyfishfamiliaritem",
+    "thesewers:magentajellyfishfamiliaritem",
+    "thesewers:lightgrayjellyfishfamiliaritem",
+    "thesewers:lightbluejellyfishfamiliaritem",
+    "thesewers:cyanjellyfishfamiliaritem",
+    "thesewers:grayjellyfishfamiliaritem",
+    "thesewers:whitejellyfishfamiliaritem",
+    "thesewers:blackjellyfishfamiliaritem",
+    "thesewers:brownjellyfishfamiliaritem",
+    "thesewers:litlanternfamiliaritem",
+    "thesewers:fiendlanternfamiliaritem",
+    "thesewers:redfishfamiliaritem",
+    "thesewers:cyanfishfamiliaritem",
+    "thesewers:purplefishfamiliaritem",
+    "thesewers:clockfamiliaritem",
+    "thesewers:horologiumfamiliaritem"
+  ]
+}

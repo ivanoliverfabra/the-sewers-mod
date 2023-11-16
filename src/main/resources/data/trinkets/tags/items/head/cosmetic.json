@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "thesewers:santa_hat",
+    "thesewers:mimicfamiliaritem",
+    "thesewers:darkmimicfamiliaritem",
+    "thesewers:icemimicfamiliaritem"
+  ]
+}

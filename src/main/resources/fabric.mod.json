@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "thesewers",
+  "version": "${version}",
+
+  "name": "The Sewers",
+  "description": "A mod that adds cosmetics and more to The Sewers SMP.",
+  "authors": [
+    "Fabraic"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/thesewers/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.fabraic.thesewers.TheSewers"
+    ],
+    "client": [
+      "com.fabraic.thesewers.TheSewersClient"
+    ]
+  },
+  "mixins": [
+    "thesewers.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.19",
+    "fabric-api": "*",
+    "minecraft": "~1.19.2",
+    "java": ">=17",
+    "fabric-key-binding-api-v1": "*",
+    "trinkets": ">=3.4.1"
+  },
+  "suggests": {
+    "trinkets": ">=3.4.1"
+  }
+}
